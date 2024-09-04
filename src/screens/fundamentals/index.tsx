@@ -34,7 +34,7 @@ export {Fundamentals};
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    alignItems: 'center',
+    marginHorizontal: 10,
   },
   wrapper: {
     borderBottomWidth: 1,
